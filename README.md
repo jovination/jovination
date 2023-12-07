@@ -1,5 +1,5 @@
 Hi, I'm Jovin!
--🌱 i'm currently learning kotlin, C++
+- 🌱 i'm currently learning kotlin, C++
 - 👋 Software Developer with a Passion for Technology
 - 🌐 Expert in Web Development | JavaScript | Python
 - 🧠 Enthusiast in Generative AI and Prompt Engineering
