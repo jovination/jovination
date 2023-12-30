@@ -1,4 +1,4 @@
-# A Creative Software Developer | Tech Enthusiast:
+# A Software Developer | Tech Enthusiast:
 - 🌱 i'm currently learning kotlin and C++
 - 👋 Software Developer with a Passion for Technology
 - 🌐 Expert in Web Development | JavaScript | Python
