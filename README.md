@@ -1,11 +1,14 @@
-# <a href ="https://jovinshija.tech">  A Software Developer | Tech Enthusiast:</a>
+#  <a href ="https://jovinshija.tech">  A Software Developer | Tech Enthusiast:</a>
 - 🌱 i'm currently learning kotlin and C++
 - 👋 Software Developer with a Passion for Technology
 - 🌐 Expert in Web Development | JavaScript | Python
 - 🧠 Enthusiast in Generative AI and Prompt Engineering
 - 🚀 Turning Ideas into Digital Realities, One Line of Code at a Time
+  
+
+
 #
-# 💻 Tech Stack:
+# 👨‍💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
