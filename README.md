@@ -1,5 +1,5 @@
 #  <a href ="https://jovinshija.tech">  A Software Developer | Tech Enthusiast:</a>
-- 🌱 i'm currently learning dart and Java
+- 🌱 i'm currently learning Android development in Java
 - 👋 Software Developer with a Passion for Technology
 - 🌐 Expert in Web Development | JavaScript | Python
 - 🧠 Enthusiast in Generative AI and Prompt Engineering
