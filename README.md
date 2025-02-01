@@ -1,6 +1,6 @@
 #  <a href ="https://jovinshija.tech">  A Software Developer | Tech Enthusiast:</a>
 - 🌱 i'm currently AI,ML and Generative AI with Python
-- 👋 Software Developer with a Passion for Technology
+- 👋 Software Engineeer | Full-stack Developer
 - 🌐 Expert in Web Development | JavaScript | Python
 - 🧠 Enthusiast in Generative AI and Prompt Engineering
 - 🚀 Turning Ideas into Digital Realities, One Line of Code at a Time
