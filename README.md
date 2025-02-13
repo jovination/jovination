@@ -1,4 +1,4 @@
-#  <a href ="https://jovinshija.tech">  A Software Developer | Tech Enthusiast:</a>
+#  <a href ="https://jovinshija.tech">  A Software Engineer | Tech Enthusiast:</a>
 - 🌱 i'm currently AI,ML and Generative AI with Python
 - 👋 Software Engineeer | Full-stack Developer
 - 🌐 Expert in Web Development | JavaScript | Python
