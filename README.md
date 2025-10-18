@@ -1,5 +1,5 @@
 #  <a href ="https://jovinshija.tech">  A Software Engineer | Tech Enthusiast:</a>
-- 🌱 I'm currently diving deep into AI, ML, and Generative AI with Python
+- 🌱 I'm currently building [NasiAcademy](https://www.nasiacademy.com)
 - 👋 Software Engineer | Full-Stack Developer | SaaS Builder
 - 👨‍💻 **Founder of [FeedbackGrove](https://feedbackgrove.com)**  Building SaaS that empowers businesses  
 - 🌐 Expert in Web Development | JavaScript | Python
