@@ -2,7 +2,7 @@
 - 🌱 I'm currently building [NasiAcademy](https://www.nasiacademy.com)
 - 👋 Software Engineer | Full-Stack Developer | SaaS Builder
 - 👨‍💻 **Founder of [FeedbackGrove](https://feedbackgrove.com)**  Building SaaS that empowers businesses  
-- 🌐 Expert in Web Development | JavaScript | Python
+- 🌐 Expert in MVPs & Startup Development
 - 🧠 Enthusiast in Generative AI & Prompt Engineering
 - 🚀 Building SaaS as a Solopreneur, Aiming for $4,500/Month
 - 💼 Open to Collaborate on Your Project!
