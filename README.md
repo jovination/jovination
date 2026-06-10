@@ -1,11 +1,11 @@
 #  <a href ="https://jovinshija.tech">  A Software Engineer | Tech Enthusiast:</a>
-- 🌱 I'm currently building [NasiAcademy](https://www.nasiacademy.com)
-- 👋 Software Engineer | Full-Stack Developer | SaaS Builder
-- 👨‍💻 **Founder of [FeedbackGrove](https://feedbackgrove.com)**  Building SaaS that empowers businesses  
-- 🌐 Expert in MVPs & Startup Development
+- 🌱 I'm currently building [Krietas..com](https://krietas.com/)
+- 👋 Software Engineer | SaaS Architect
+- 👨‍💻 **Founder of [NasiAcademy](https://www.nasiacademy.com)**  Building Startup that empowers Instructors & Learners
+- 🌐 Strong focus on MVP design, system architecture, and real-world startup execution
 - 🧠 Enthusiast in Generative AI & Prompt Engineering
-- 🚀 Building SaaS as a Solopreneur, Aiming for $4,500/Month
-- 💼 Open to Collaborate on Your Project!
+- 🚀 Solo builder reaching $10K MRR
+- 💼 Actively developing ideas into real, scalable SaaS products!
 
 
 
