@@ -4,7 +4,7 @@
 - 👨‍💻 **Founder of [NasiAcademy](https://www.nasiacademy.com)**  Building Startup that empowers Instructors & Learners
 - 🌐 Strong focus on MVP design, system architecture, and real-world startup execution
 - 🧠 Enthusiast in Generative AI & Prompt Engineering
-- 🚀 Solo builder reaching $10K MRR
+- 🚀  Solo builder on the road to $10K MRR
 - 💼 Actively developing ideas into real, scalable SaaS products!
 
 
