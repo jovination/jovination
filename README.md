@@ -1,4 +1,4 @@
-#  <a href ="https://jovinshija.tech"> SWE | AI Engineer | Tech Enthusiast:</a>
+#  <a href ="https://jovinshija.com"> SWE | AI Engineer | Tech Enthusiast:</a>
 - 🌱 I'm currently building [Krietas..com](https://krietas.com/)
 - 👋 Software Engineer | SaaS Architect | AI Engineer
 - 👨‍💻 **Founder of [NasiAcademy](https://www.nasiacademy.com)**  Building Startup that empowers Instructors & Learners
